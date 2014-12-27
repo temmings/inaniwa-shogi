@@ -8,6 +8,8 @@
 
 #include <time.h>
 #include <string.h>
+#include <stdlib.h>
+#include <pthread.h>
 #include <algorithm>
 #include <string>
 #include <memory>
